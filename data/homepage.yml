@@ -13,17 +13,17 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
+  - title: Ecommerce
     progress: 90%
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
+  - title: Social Media
+    progress: 90%
     color: "#9473e6"
-  - title: After Effects
-    progress: 80%
+  - title: Graphic Design
+    progress: 60%
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
+  - title: SEO
+    progress: 85%
     color: "#ffbcaa"
 experience:
   enable: true
