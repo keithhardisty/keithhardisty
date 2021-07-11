@@ -2,7 +2,7 @@ baseURL = "keithhardisty.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Keith Hardisty | Marketing & Ecommerce"
 [[menu.main]]
 URL = "about"
 name = "About"
