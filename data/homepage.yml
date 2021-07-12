@@ -15,16 +15,16 @@ skill:
   item:
   - title: Ecommerce
     progress: 90%
-    color: "#fdb157"
+    color: "#006989"
   - title: Social Media
     progress: 90%
     color: "#9473e6"
   - title: Graphic Design
     progress: 60%
-    color: "#bdecf6"
+    color: "#0b132b"
   - title: SEO
     progress: 85%
-    color: "#ffbcaa"
+    color: "#efca08"
 experience:
   enable: false
   title: Experience
