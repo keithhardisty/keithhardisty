@@ -4,21 +4,13 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Marketing & Ecommerce | Keith Hardisty "
 [[menu.main]]
-URL = "about"
-name = "About"
+URL = "contact"
+name = "Contact"
 weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+weight = 1
 [params]
 address = "Austin, TX"
 author = "Keith Hardisty"
