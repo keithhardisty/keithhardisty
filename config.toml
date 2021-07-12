@@ -22,13 +22,13 @@ weight = 5
 [params]
 address = "Austin, TX"
 author = "Keith Hardisty"
-copyright = "Copyright &copy; 2020 a theme by [Keith Hardisty](https://www.keithhardisty.com)"
+copyright = "Copyright &copy; 2021 a theme by [Keith Hardisty](https://www.keithhardisty.com)"
 description = "Digital marketing & ecommerce websites specializing in small and medium sizes businesses."
 email = "keithhardisty@email.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = "+805-509-1371"
+phone = "805-509-1371"
 theme_color = "#41228e"
 [params.contact]
 enable = true
