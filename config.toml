@@ -4,13 +4,21 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Marketing & Ecommerce | Keith Hardisty "
 [[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "about"
+name = "About"
 weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 3
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
-weight = 1
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 address = "Austin, TX"
 author = "Keith Hardisty"
@@ -42,9 +50,6 @@ URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
 preloader = ""
-[[params.social]]
-URL = "#keithhardisty"
-icon = "ti-instagram"
 [[params.social]]
 URL = "#keithhardisty"
 icon = "ti-linkedin"
