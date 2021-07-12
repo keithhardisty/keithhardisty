@@ -29,7 +29,7 @@ google_analitycs_id = "Your ID"
 home = "Home"
 logo = "/images/kh-logo.svg"
 phone = "805-509-1371"
-theme_color = "#41228e"
+theme_color = "#00aa99"
 [params.contact]
 enable = true
 form_action = "#"
