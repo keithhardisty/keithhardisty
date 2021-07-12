@@ -15,7 +15,7 @@ skill:
   item:
   - title: Ecommerce
     progress: 90%
-    color: "#006989"
+    color: "#E64E5D"
   - title: Social Media
     progress: 90%
     color: "#9473e6"
