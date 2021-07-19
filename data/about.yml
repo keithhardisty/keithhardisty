@@ -3,7 +3,7 @@ work_process:
   enable: true
   title: Work Process
   item:
-  - title: Research and Plan
+  - title: Discover
     icon: images/icons/plan.png
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
