@@ -3,11 +3,11 @@ work_process:
   enable: true
   title: Work Process
   item:
-  - title: Discovery
+  - title: Discover
     icon: images/icons/plan.png
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
-  - title: Design/Implementation
+  - title: Design/Implement
     icon: images/icons/design.png
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
